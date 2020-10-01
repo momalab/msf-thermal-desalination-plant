@@ -21,6 +21,6 @@ Prashant Hari Narayan Rajput, Pankaj Rajput, Marios Sazos, and Michail Maniatako
 
 ## References
 
-[1] Ali, Emad, Khalid Alhumaizi, and Abdelhamid Ajbar. "Model reduction and robust control of multi-stage flash (MSF) desalination plants." _Desalination_ 121.1 (1999): 65-85.
-[2] Ali, Emad. "Understanding the operation of industrial MSF plants Part I: Stability and steady-state analysis." _Desalination_ 143.1 (2002): 53-72.
-[3] Ali, Emad. "Understanding the operation of industrial MSF plants Part II: Optimization and dynamic analysis." _Desalination_ 143.1 (2002): 73-91.
+1. Ali, Emad, Khalid Alhumaizi, and Abdelhamid Ajbar. "Model reduction and robust control of multi-stage flash (MSF) desalination plants." _Desalination_ 121.1 (1999): 65-85.
+2. Ali, Emad. "Understanding the operation of industrial MSF plants Part I: Stability and steady-state analysis." _Desalination_ 143.1 (2002): 53-72.
+3. Ali, Emad. "Understanding the operation of industrial MSF plants Part II: Optimization and dynamic analysis." _Desalination_ 143.1 (2002): 73-91.

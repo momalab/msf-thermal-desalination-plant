@@ -2,7 +2,7 @@
 
 ## Overview
 
-Desalination is the process of converting high salinity sea water into potable water. This full-order model has been tested and validated against real plant data obtained from the Khubar II MSF plant in Saudi Arabia \[1\]. The model is a 22 stage MSF desalination plant, which consists of 3 Heat Rejection Sections and 19 Heat Recovery Sections ported from \[2\] \[3\]. It also consists of 4 flow rate, 3 level, 3 temperature, 1 pressure sensors, 2 gas valves, 9 liquid valves, and 3 PI controllers. The base simulation is modified to include support for Hardware-in-the-loop (HIL).
+Desalination is the process of converting high salinity sea water into potable water. This full-order model has been developed, tested, and validated against real plant data obtained from the Khubar II MSF plant in Saudi Arabia, as presented in the corresponding publications \[1\] \[2\] \[3\]. The model is a 22 stage MSF desalination plant, which consists of 3 Heat Rejection Sections and 19 Heat Recovery Sections. It also consists of 4 flow rate, 3 level, 3 temperature, 1 pressure sensor, 2 gas valves, 9 liquid valves, and 3 PI controllers. The base simulation is modified to include support for Hardware-in-the-loop (HIL).
 
 ## Requirements
 

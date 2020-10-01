@@ -6,8 +6,9 @@ Desalination is the process of converting high salinity sea water into potable w
 
 ## Requirements
 
-Simulink-RealTime<br />
-Windows OS
+Windows OS<br />
+MATLAB<br />
+Simulink-RealTime
 
 ## Instructions
 
@@ -18,6 +19,10 @@ Windows OS
 If you like the work, please cite our ASIACCS' 19 paper:
 
 Prashant Hari Narayan Rajput, Pankaj Rajput, Marios Sazos, and Michail Maniatakos. 2019. Process-Aware Cyberattacks for Thermal Desalination Plants. In _Proceedings of the 2019 ACM Asia Conference on Computer and Communications Security_ (_Asia CCS '19_).
+
+## Contact us
+
+For more information or help with HIL setup, please contact Marios Sazos at **marios.sazos@nyu.edu**
 
 ## References
 

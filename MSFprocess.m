@@ -61,7 +61,10 @@ Index:
     sumLD - Accumulator used in the PI Controller that controls the
         Distillate flow rate
 %}
-global dist NREJ NREC Bd Wd sumLB sumLD 
+global dist NREJ NREC Bd Wd sumLB sumLD
+
+% Load input parameters [Us U Wf Rej Ts Wd LB LD] to dist
+dist=param(1:13);
 
 if abs(flag) == 1
   % Return state derivatives.
@@ -85,9 +88,6 @@ elseif flag == 0
   % Initial Output Vector
   sys = [68, 0, 6, 3, 0, 0];
   
-  % Load input parameters [Us U Wf Rej Ts Wd LB LD] to dist
-  dist=param(1:13);
-  
   % Number of Heat Recovery and Rejection stages
   NREJ=param(14);
   NREC=param(15);
@@ -97,7 +97,7 @@ elseif flag == 0
   sumLD=0;
   
   % Clear logged data variable (xout)
-  clear tout xout
+  %clear tout xout
 else
   sys = [];  
 end
